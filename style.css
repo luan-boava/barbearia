@@ -1,0 +1,14 @@
+    header {
+        background-color: rgb(243, 1, 1);
+        color:black;
+    }
+
+    body {
+        background-color: blue;
+        color:azure
+    }
+
+    footer {
+        background-color: aqua;
+        color:aquamarine
+    }
